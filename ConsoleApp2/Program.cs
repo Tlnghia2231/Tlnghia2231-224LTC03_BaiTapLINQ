@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-namespace ConsoleApp1
+namespace ConsoleApp2
 {
     class Department
     {
